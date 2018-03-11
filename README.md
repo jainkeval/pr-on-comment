@@ -20,7 +20,7 @@ If user comments on an issue using the phrase "Create PR" in it and providing th
 # -----------------------------------------
 > a GitHub App built with [probot](https://github.com/probot/probot) that
 
-## Setup
+## Setup Locally
 
 ```
 # Install dependencies
