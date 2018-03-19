@@ -1,5 +1,6 @@
 # pr-on-comment
 
+> a GitHub App built with [probot](https://github.com/probot/probot)
 ## A probot app which can create a pull request on comment in a corresponding issue
 
 
